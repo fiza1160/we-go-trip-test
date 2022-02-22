@@ -1,0 +1,39 @@
+{
+   "count":4,
+   "next":null,
+   "previous":null,
+   "results":[
+      {
+         "id":1,
+         "author":1,
+         "rating":1,
+         "text":"Review #1 from user user 1",
+         "created":"2022-02-21T15:06:04.723409Z",
+         "is_published":false
+      },
+      {
+         "id":2,
+         "author":1,
+         "rating":2,
+         "text":"Review #2 from user user 1",
+         "created":"2022-02-21T15:06:04.723409Z",
+         "is_published":false
+      },
+      {
+         "id":3,
+         "author":2,
+         "rating":1,
+         "text":"Review #1 from user user 2",
+         "created":"2022-02-21T15:06:04.723409Z",
+         "is_published":false
+      },
+      {
+         "id":4,
+         "author":2,
+         "rating":2,
+         "text":"Review #2 from user user 2",
+         "created":"2022-02-21T15:06:04.723409Z",
+         "is_published":false
+      }
+   ]
+}
